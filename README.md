@@ -14,7 +14,7 @@ There are 2 columns (X1,X2). Use pd.read_csv for loading data and substitute “
 
 <h3>
 Implementation of K-means algorithm (80%). 
-<\h3>
+</h3>
 
 <p>a)	load and visualize initial data. 	</p>
 
